@@ -11,4 +11,4 @@
 7. Now run **app.py** file to trigger the gradio frontend to interact with **MistralAI LLM** with questions specific to the document under dataset directory.
 
 ### Note:
-**Change and add your MistralAI key under environment variables with name "MISTRAL_AI_API_KEY" for the code to work seamlessly**.
+Change and add your MistralAI key under environment variables with name "MISTRAL_AI_API_KEY" for the code to work seamlessly.
