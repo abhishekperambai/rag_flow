@@ -12,3 +12,9 @@
 
 ### Note:
 Change and add your MistralAI key under environment variables with name "**MISTRAL_AI_API_KEY**" for the code to work seamlessly.
+
+
+### Frontend Screenshot of the app
+
+<img width="956" alt="image" src="https://github.com/abhishekperambai/rag_flow/assets/16097379/77487718-1e32-4be6-ac28-3711c841a79d">
+
