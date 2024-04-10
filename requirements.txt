@@ -1,0 +1,14 @@
+opencv-python-headless
+numpy
+pandas
+gradio
+sentencepiece
+sentence-transformers
+llmlingua
+faiss
+torch
+fitz
+unstructured[all-docs]
+pytesseract
+mistralai
+opencv-python
